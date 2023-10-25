@@ -1,2 +1,2 @@
 # C-Program
-Posting my practices and assignments from C here.
+Posting my practices, assignments, and exams from C here.
