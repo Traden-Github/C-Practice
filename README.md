@@ -1,2 +1,2 @@
 # C-Random_Practices
-Posting my small practices here
+Posting my small practices in C here
