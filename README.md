@@ -1,2 +1,2 @@
 # C-Random_Practices
-Posting my practices, assignments, and exams from C here.
+Posting my small practices here
